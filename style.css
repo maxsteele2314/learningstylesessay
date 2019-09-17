@@ -1,1 +1,49 @@
+body
 
+h1{
+
+    font-family: monospace;
+
+    font-size: 80px;
+
+    text-align: center;
+
+    color: blue;
+
+}
+
+
+
+ h4{
+
+    font-size: 40px;
+
+    text-align: center;
+
+    color: red;
+
+}
+
+ h6{
+
+    font-size: 32px;
+
+    text-align: center;
+
+    color: grey;
+
+}
+
+    
+
+ p{
+
+     font-size: 30px;
+
+     text-align: center;
+   
+     color: red;
+
+     background-color: blue;
+
+}
